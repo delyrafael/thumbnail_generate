@@ -1,8 +1,3 @@
-Berikut adalah draf file `README.md` yang profesional dan lengkap untuk proyek **Pro YouTube Thumbnail Maker** Anda. File ini mencakup instruksi instalasi, fitur, dan cara penggunaan.
-
----
-
-```markdown
 # 🎬 Pro YouTube Thumbnail Maker (Rembg Edition)
 
 Aplikasi berbasis Python untuk membuat thumbnail YouTube profesional secara otomatis dari video. Alat ini menggunakan AI untuk menghapus background subjek dan menggabungkannya dengan collage background dari scene video lainnya.
